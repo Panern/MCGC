@@ -1,0 +1,20 @@
+
+Amazon photos:
+  alpha: 300
+  gama: -1
+
+Amazon_computers:
+  alpha: 1000
+  gama: -1
+
+ACM:
+  alpha: 100
+  gama: -5
+
+DBLP:
+  alpha: 100
+  gama: -4
+
+IMDB:
+  alpha: 10
+  gama: -2
