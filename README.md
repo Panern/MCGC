@@ -16,9 +16,6 @@ This is the code of "Multi-view Contrastive Graph Clustering" in Neurlps.
 
 #### Completed sources: download at https://drive.google.com/drive/folders/1dVL9m76NCCKeikfxF2f7rqnvz6yPU3aS?usp=sharing
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### Bib
 
