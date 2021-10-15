@@ -259,8 +259,8 @@ def go_run(dataname, X, gnd):
                         k0 = np.exp(S_re[i]).sum() - np.exp(S_re[i][i])
                         loss_nbr = 0
                         for z in range(10):
-                            if id[v][i][z] != i:
-                                loss_nbr = loss_nbr - np.log(np.exp(S_re[i][id[v][i][z]]) / k0)
+                            if nbrs_inx[v][i][z] != i:
+                                loss_nbr = loss_nbr - np.log(np.exp(S_re[i][nbrs_inx[v][i][z]]) / k0)
                         loss_all_node = loss_all_node + loss_nbr
 
                     nada[v] = (-((np.linalg.norm(
