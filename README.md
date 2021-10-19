@@ -2,7 +2,7 @@
 
 #### Description
 This is the code of "Multi-view Contrastive Graph Clustering" in NeurlPS 2021.
-#### Dasets
+#### Datasets
 
 ![image](https://user-images.githubusercontent.com/55492095/137155093-6fc13e15-7795-490d-8560-a01dbd9b8648.png)
 
