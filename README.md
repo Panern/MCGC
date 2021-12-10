@@ -18,12 +18,11 @@ This is the code of "Multi-view Contrastive Graph Clustering" in NeurlPS 2021.
 
 
 #### Bib
-@article{pan2021multi,
+@inproceedings{pan2021multi,
   title={Multi-view Contrastive Graph Clustering},
-  author={Pan, Erlin and Kang, Zhao},
-  journal={arXiv preprint arXiv:2110.11842},
+  author={Pan, Erlin and others},
+  booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
   year={2021}
 }
-
 
 
